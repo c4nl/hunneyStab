@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/leaker
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://stab.wtf
+  * I am leaker (https://keybase.io/leaker) on keybase.
+  * I have a public key with fingerprint 9DC0 DB31 A03E 1B26 2865  3158 7889 DE43 0033 7922
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101a2972e5dc46896a83230602c8781859e413240145336227d05da8ef70bba43730a",
+      "fingerprint": "9dc0db31a03e1b26286531587889de4300337922",
+      "host": "keybase.io",
+      "key_id": "7889de4300337922",
+      "kid": "0101a2972e5dc46896a83230602c8781859e413240145336227d05da8ef70bba43730a",
+      "uid": "b6a81f083943d8b6fc5b1d2e92b5f319",
+      "username": "leaker"
+    },
+    "service": {
+      "hostname": "stab.wtf",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1665625933,
+  "expire_in": 157680000,
+  "prev": "e8014e5ecbaae73f1b5f51213b322d56de23207a89e67f183a1d23b9e4730188",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIfAnicrVJfSBRBHN7LNL0oKiGjf+SCmXHZzsz+mT2ihwgtSs2CCAqund3Zc71r
+99xbzzvy7D++JppFQVYPUQRJUXFSD51YQj0UEpUvUZQWFdn/Xvo3K/XWY/MyzG++
+75vv+5ihGQVcMLC2JT3acKDqc+BuvquV02udut08cYwMH97Nx+jkRuMGTXqRmGXw
+YV4AAtCgqkAqGbooY1XWMIJIkAWoYwUDLKlUBAiKAhAlhGQIFUOQDA1TUxEI0USk
+IEHjQ7xp2VHqJlzL9pisauiCQRDQBEQBgTLEsoSAxBSxalARCQJCigohIzY5SZ/B
+zBEtSasth83YITJp7x/4/+y7dVKOMDowBYxUERmYyKYuEWBAqkIimQioPjBJXVvb
+RRk6TrUYdflsiGezlKVTv1Y/x5/7pKeR6jbPZKyE63iO7sTZtMnzEsmwz/IyCR/W
+Rknkj0CEWLbBGmSMFHWTlmPzYcCQumf5ikCWJRlKKkIhnqYTlksjlo+QFBkLbPnv
+0BSTpJjlpRLViaZRBZmA2ZcABIggCA1JNihEUFA0rFJZMQFGGkuJCOuK1QEw5v1I
+LbbDhyVmU4v6YayorXmtLuWzgzd3TOUCQa6ocIr/s7hgyay//63+cDHXeb6y8crE
+KTU9lF83vtSe9rj0y57v4vbFzU2FIzdqMt2xwv7vmW8VZhc8/BqesR8P7D9e9PDj
+wlWX5uUfvB4ruJ4T3m7L3ip6JpZ9m3n6ws5F48duxQ/NyCU6jsrpX6XF5p1aPTf+
+o/TeZ+7d2No8t695c6zxzMTlzNNNK/V41ZqNq/fmUHnudvMGOxhr4xu53q2Dg3ve
+e6BhdfWqI+TVh8W9wVh3ST679Fqu/AN3Yk20ZOvVn7npP+qfkJqK2YHirz3Lvm7p
+fLR5wY43F+e//FQ50nhw+ORw2Ys5U+/1n4t/7LvfPvq8p6Gzo0X+8k4ZWn7wbGgA
+tq8Y6ZtYUpGqG14/9zcpNDYy
+=USje
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/leaker
+
+==================================================================
