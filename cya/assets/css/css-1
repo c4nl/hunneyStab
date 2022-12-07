@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Sarala';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/sarala/v10/uK_y4riEZv4o1w9hDRcX-1.ttf) format('truetype');
+}
